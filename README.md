@@ -4,7 +4,7 @@ This is a simple shopping cart built using React JS with the Context API and the
 
 ## Live Demo
 
-[click here](https://github.com/qasim006/shopping-cart)
+[Click Here!](https://github.com/qasim006/shopping-cart)
 
 ## Features
 - Add items to cart
