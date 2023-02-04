@@ -2,6 +2,10 @@
 
 This is a simple shopping cart built using React JS with the Context API and the `useReducer` hook. The app allows users to add and remove items from the cart, and displays the total cost of the items in the cart.
 
+## Live Demo
+
+[click here](https://github.com/qasim006/shopping-cart)
+
 ## Features
 - Add items to cart
 - Remove items from cart
